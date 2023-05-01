@@ -27,30 +27,30 @@ Productivity: MS Office suite, Adobe Express, Adobe Spark
 Graphic design: Inskscape, Adobe Illustrator
 
 ## Work Experience
-Associate Professor—Teaching, Instructional (Full-time, Non-Tenure Track), Temple University, Philadelphia, 2017-present
-•	Sole instructor for various First Year Writing and English Literature courses
+Associate Professor—Teaching, Instructional (Full-time, Non-Tenure Track), Temple University, Philadelphia, 2017-present: 
+Sole instructor for various First Year Writing and English Literature courses
 •	Curriculum development and professional development expectations
 
-Student Advisor—First Year Writing Program, 2022-Present
-•	Supporting FYWP director in organizational and administrative duties
+Student Advisor—First Year Writing Program, 2022-Present:
+Supporting FYWP director in organizational and administrative duties
 •	Transfer expert
 
-Assistant Professor—Teaching, Instructional (Full-time, Non-Tenure Track), Temple University, Philadelphia, 2010-2017
-•	Sole instructor for various First Year Writing and English Literature courses
+Assistant Professor—Teaching, Instructional (Full-time, Non-Tenure Track), Temple University, Philadelphia, 2010-2017: 
+Sole instructor for various First Year Writing and English Literature courses
 •	Curriculum development and professional development expectations
 
-Adjunct Instructor, English Department, Temple University, Philadelphia, 2002-2010
-•	Sole instructor for various First Year Writing and English Literature courses
+Adjunct Instructor, English Department, Temple University, Philadelphia, 2002-2010:
+Sole instructor for various First Year Writing and English Literature courses
 
-Tutor/Trainer at the University Writing Center, Temple University, Philadelphia, 2002-2004
-•	Tutored undergraduate and graduate students on writing projects
+Tutor/Trainer at the University Writing Center, Temple University, Philadelphia, 2002-2004:
+Tutored undergraduate and graduate students on writing projects
 •	Trained new tutors in the program
 
-Teaching Assistant, English Department, Temple University, Philadelphia, 2000-2002
-•	Sole instructor for various First Year Writing and English Literature courses
+Teaching Assistant, English Department, Temple University, Philadelphia, 2000-2002:
+Sole instructor for various First Year Writing and English Literature courses
 
-Editorial/research Assistant at Journal of Modern Literature, Temple University, Philadelphia, 1999
-•	Organized and transmitted publication information 
+Editorial/research Assistant at Journal of Modern Literature, Temple University, Philadelphia, 1999:
+Organized and transmitted publication information 
 
 ## Languages
 Fluent: English, Hungarian
