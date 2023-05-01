@@ -13,11 +13,11 @@ my ability to produce web based geographic data presentation.
 English Ph.D. and university professor with GIS analysis training planning for second career in geospatial technologies. Broad range of technical skills include using GIS for analysis and mapping, database development and maintenance, and statistical analysis. Exceptional written and oral communication skills, including over 20 years of experience teaching writing to a diverse population of students, public speaking, and conveying complex ideas to the general public.
 
 ## Education	
-P.S.M.	in GIS, Temple University, Geography and Urban Studies Department—Degree expected Fall 2023
-Graduate Certificate in GIS, Temple University, Geography and Urban Studies Department
-Ph.D. in English Literature, Temple University, English Department
-M.A. in Liberal Arts, Temple University, Master of Liberal Arts Program
-B.A. Eszterhazy K. Teachers’ College, Hungary, Hungarian Literature Department and History Department
+-P.S.M.	in GIS, Temple University, Geography and Urban Studies Department—Degree expected Fall 2023
+-Graduate Certificate in GIS, Temple University, Geography and Urban Studies Department
+-Ph.D. in English Literature, Temple University, English Department
+-M.A. in Liberal Arts, Temple University, Master of Liberal Arts Program
+-B.A. Eszterhazy K. Teachers’ College, Hungary, Hungarian Literature Department and History Department
 
 ## Skills
 Geographic Information Systems: ArcGIS, QGIS, 
