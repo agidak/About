@@ -53,13 +53,13 @@ Editorial/research Assistant at Journal of Modern Literature, Temple University,
 - Organized and transmitted publication information 
 
 ## Languages
-Fluent: English, Hungarian
-Reading: French
-Some: Russian, Spanish
+- Fluent: English, Hungarian
+- Reading: French
+- Some: Russian, Spanish
 
 ## References
-Professor Lee Hachadoorian, GUS PSM, Temple University, Philadelphia
+*Professor Lee Hachadoorian*, GUS PSM, Temple University, Philadelphia
 Contact at: lee.hachadoorian@temple.edu or 212-777-3084
 
-Professor Charles Kaylor, Director of GIS and Cartography Labs, University of Maryland Baltimore County, Baltimore
+*Professor Charles Kaylor*, Director of GIS and Cartography Labs, University of Maryland Baltimore County, Baltimore
 Contact at: ckaylor@umbc.edu or 617-999-9429
